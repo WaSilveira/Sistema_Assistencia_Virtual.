@@ -1,3 +1,6 @@
+> This project is part of the applied AI work organized in:
+> https://github.com/WaSilveira/ai-life-sciences
+
 # Sistema_Assistencia_Virtual.
 # Virtual Assistance System with Speech Interfaces
 
